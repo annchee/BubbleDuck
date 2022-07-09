@@ -1,0 +1,1 @@
+{"type":"Text","props":{"y":0,"x":0,"width":81,"text":"+ 1","presetID":1,"pivotY":0,"pivotX":0,"name":"score_plus","isPresetRoot":true,"height":50,"fontSize":50,"font":"Microsoft YaHei","color":"#197dae","runtime":"Laya.Text"},"compId":74,"child":[{"type":"Script","props":{"scorePlus":"@node:74","presetID":2,"runtime":"ScoreFloat.ts"},"compId":75}],"loadList":[],"loadList3D":[]}
